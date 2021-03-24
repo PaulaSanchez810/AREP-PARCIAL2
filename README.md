@@ -35,5 +35,5 @@ Para porder usar SSH en Windows, para ingresar a la maquina de ASW, debe utiliza
 
 > descargue el video en el siguiente link 
 
-- [video](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/Parcial2arep.mkv) 
+- [video](https://web.microsoftstream.com/video/60c128c3-d6f7-46ad-97c4-4ef784aa16de) 
 
