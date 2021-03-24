@@ -1,12 +1,5 @@
 # AREP-PARCIAL2
 
-> OperacionExpLocal
-
-![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/operationExp.png)
-
-> OperacionLogLocal
-
-![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/operationLog.png)
 
 >OperacionExpAWS
 
@@ -20,7 +13,7 @@
 
 ![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/dockerhub.png)
 
-##Despliegue en ASW
+## Despliegue en ASW
 
 #### inicio de maquina ASW por SSH en Windows
 Para porder usar SSH en Windows, para ingresar a la maquina de ASW, debe utilizar PowerShell y ejecutar los siguinetes comandos:
