@@ -12,6 +12,9 @@
 
 ![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/operationLog-AWS.png)
 
+> OperacionLogAWS
+
+![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/operationExp-AWS.png)
 
 >imagenes docker en el repositorio
 
@@ -35,9 +38,7 @@ Para porder usar SSH en Windows, para ingresar a la maquina de ASW, debe utiliza
 
 ### instanciando contenedor docker a AWS
   
-> OperacionLogAWS
-
-![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/operationExp-AWS.png)
+![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/ec2-docker.png)
 
 > descargue el video el el siguiente link 
 
