@@ -18,4 +18,4 @@
 
 > descargue el video el el siguiente link 
 
-![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/operationLog.png)
+- [video](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/Parcial2arep.mkv) 
