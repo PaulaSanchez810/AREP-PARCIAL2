@@ -33,7 +33,5 @@ Para porder usar SSH en Windows, para ingresar a la maquina de ASW, debe utiliza
   
 ![](https://github.com/PaulaSanchez810/AREP-PARCIAL2/blob/main/img/ec2-docker.png)
 
-> descargue el video en el siguiente link 
-
-- [video](https://web.microsoftstream.com/video/60c128c3-d6f7-46ad-97c4-4ef784aa16de) 
+> mire el video - [Aqui](https://web.microsoftstream.com/video/60c128c3-d6f7-46ad-97c4-4ef784aa16de) 
 
